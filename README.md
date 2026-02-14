@@ -30,7 +30,7 @@ Before you begin, ensure you have:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/RajeshThakur1/whatapp_integration
+    git clone https://github.com/Tripathiraj1/whatapp_integration
     cd whatapp_integration
     ```
 
